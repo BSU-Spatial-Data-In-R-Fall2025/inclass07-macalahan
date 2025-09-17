@@ -3,7 +3,7 @@
 ## Repository Structure
 All of the in-class exercises and assignments in this class rely on a similar project structure to help you organize your data analysis. It also provides me a way to include any necessary utility scripts for your assignment.
 
-
+# test
 ```    
     - AssignmentRoot/
         - data/
